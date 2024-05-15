@@ -4,6 +4,7 @@ body {
 }
 
 h1 {
+    animation: fadeIn 5s;
     font-family: "Victor Mono", monospace;
     font-size: 2rem;
 }
