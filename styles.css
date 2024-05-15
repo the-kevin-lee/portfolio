@@ -6,6 +6,6 @@ body {
     padding: 0;
 }
 
-li .wonder {
+li.wonder {
     color: red;
 }
